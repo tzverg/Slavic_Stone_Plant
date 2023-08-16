@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>	
+	<ThingDef ParentName="PlantFoodRawBase">
+		<defName>VPE_RawAlatyr</defName>
+		<label>stonebloom alatyr</label>
+		<description>Carefully cultivated Alatyr's stonebloom. A magnificent treasure that can only be nurtured by a master gardener. The brightest light exuded by the stonebloom has faded as the mycelium has been cut off, but the Alatyr continues to shimmer and therefore attracts the eyes of traders with its elegance.</description>
+		<soundInteract>Grain_Drop</soundInteract>
+		<soundDrop>Grain_Drop</soundDrop>
+		<graphicData>
+			<texPath>Things/Items/Raw/VPE_TAlatyrItem</texPath>
+		</graphicData>
+		<statBases>
+			<MarketValue>500</MarketValue>
+		</statBases>
+		<!-- <comps> -->
+			<!-- <li Class="CompProperties_Rottable"> -->
+				<!-- <daysToRotStart>30</daysToRotStart> -->
+				<!-- <rotDestroys>true</rotDestroys> -->
+			<!-- </li> -->
+		<!-- </comps> -->
+
+		<ingestible>
+			<foodType>VegetableOrFruit</foodType>
+			<preferability>RawTasty</preferability>
+		</ingestible>    
+	</ThingDef>
+</Defs>

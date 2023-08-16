@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Slavic Stone Plant</name>
+	<author>TzverG</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+	</modDependencies>
+	<loadAfter>
+	</loadAfter>
+
+	<packageId>VanillaExpanded.VPlantsE.EMP</packageId>
+
+	<description>Simple slavic plant for personal use.</description>
+</ModMetaData>
