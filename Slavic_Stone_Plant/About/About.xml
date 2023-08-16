@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Slavic Stone Plant</name>
+	<name>Славянские Каменные Цветки (Slavic Stone Plant)</name>
 	<author>TzverG</author>
 	<supportedVersions>
 		<li>1.4</li>
@@ -12,5 +12,11 @@
 
 	<packageId>TzverG.SSP</packageId>
 
-	<description>Simple slavic plant for personal use.</description>
+	<description>
+		Модификация добавляет уникальные и очень ценные растения в разных категориях.
+		
+		Декоративные: (те что возможно садить исключительно в цветочных горшках)
+			- алатыръ
+			
+	</description>
 </ModMetaData>
